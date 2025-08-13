@@ -1,0 +1,17 @@
+
+# check status
+git status
+
+# put all into staged
+git add -A
+
+# commit
+git commit -m "Your msg"
+
+# publish
+git push
+
+
+# clone: https://github.com/MinaWei/New-Prj.git
+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
+git clone https://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@github.com/MinaWei/New-Prj.git Folder1
